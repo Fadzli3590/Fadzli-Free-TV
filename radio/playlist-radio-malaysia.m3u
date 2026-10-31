@@ -1,0 +1,19 @@
+#EXTM3U
+# Salinan playlist radio Malaysia sedia ada dari root repository.
+# Gunakan pautan yang dibenarkan oleh penyedia siaran.
+#EXTINF:-1 group-title="Radio Malaysia",THR Gegar
+https://stream.rcs.revma.com/cn0zcqsbv4uvv/4_ejlx9lzb14zo02/playlist.m3u8
+#EXTINF:-1 group-title="Radio Malaysia",Molek FM
+https://stream.rcs.revma.com/z56xa78mtd3vv/16_q0v5zs8l1wqp02/playlist.m3u8
+#EXTINF:-1 group-title="Radio Malaysia",Hitz
+https://stream.rcs.revma.com/488kt4sbv4uvv
+#EXTINF:-1 group-title="Radio Malaysia",Lite FM
+https://stream.rcs.revma.com/bn4ex8sbv4uvv
+#EXTINF:-1 group-title="Radio Malaysia",Mix FM
+https://stream.rcs.revma.com/v5pq3htbv4uvv
+#EXTINF:-1 group-title="Radio Malaysia",ERA
+https://stream.rcs.revma.com/crec9cmbv4uvv
+#EXTINF:-1 group-title="Radio Malaysia",Fly FM
+https://stream.rcs.revma.com/q17aka9mtd3vv/6_19pj9n9pvoh6p02/playlist.m3u8
+#EXTINF:-1 group-title="Radio Malaysia",Mutiara FM
+https://28153.live.streamtheworld.com/MUTIARA_FMAAC
