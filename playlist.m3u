@@ -1,4 +1,10 @@
 #EXTM3U
+# TV3 — sumber Tonton/Media Prima; mungkin geo-block atau perlukan kebenaran sesi.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tontonlive.com/
+#EXTINF:-1 tvg-id="TV3.my" group-title="Media Prima" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420323:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",TV3
+https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
+
 # Playlist Fadzli Free TV - RTM
 # URL siaran boleh berubah; sumber siaran RTM.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36
