@@ -1,23 +1,22 @@
 # My TV Malaysia 🇲🇾
 
-Playlist ringkas untuk TV dan radio Malaysia.
+Playlist ringkas TV dan radio Malaysia.
 
-## 📺 TV Malaysia
-Playlist M3U:
-https://raw.githubusercontent.com/Fadzli3590/Fadzli-Free-TV/main/tv/playlist-tv-malaysia.m3u
+## 📺 TV
+https://raw.githubusercontent.com/Fadzli3590/Fadzli-Free-TV/main/tv.m3u
 
-## 📻 Radio Malaysia
-Playlist M3U:
+## 📻 Radio
 https://raw.githubusercontent.com/Fadzli3590/Fadzli-Free-TV/main/radio/playlist-radio-malaysia.m3u
 
+## 🗓️ EPG
+https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
+
+EPG XMLTV untuk saluran yang mempunyai padanan ID. Jadual bergantung pada kemas kini sumber EPG dan mungkin tidak tersedia untuk semua saluran.
+
 ## Cara guna
-Buka VLC atau pemain IPTV yang menyokong M3U, kemudian masukkan URL playlist yang dikehendaki.
+Masukkan URL TV dan URL EPG dalam aplikasi IPTV yang menyokong M3U/XMLTV. Sesetengah aplikasi akan membaca EPG terus daripada playlist.
 
 ## Nota
-- Pautan siaran boleh berubah, tamat tempoh atau memerlukan akses melalui aplikasi/platform rasmi.
-- Playlist ini hanya menyimpan pautan; projek ini tidak mengehos atau memuat naik semula kandungan siaran.
-- Gunakan platform rasmi jika sesuatu saluran memerlukan akaun, langganan atau akses khas.
-
-## Platform rasmi
-- [RTMKlik](https://rtmklik.rtm.gov.my/)
-- [Tonton](https://www.tonton.com.my/)
+- Pautan siaran boleh berubah atau memerlukan akses melalui platform rasmi.
+- Playlist menyimpan pautan siaran; projek ini tidak mengehos atau memuat naik semula kandungan.
+- Hormati hak cipta dan syarat penyedia siaran.
