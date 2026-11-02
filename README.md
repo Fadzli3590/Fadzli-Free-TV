@@ -13,6 +13,12 @@ https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
 
 EPG XMLTV untuk saluran yang mempunyai padanan ID. Jadual bergantung pada kemas kini sumber EPG dan mungkin tidak tersedia untuk semua saluran.
 
+## Unifi TV — Inspirasi
+
+Tonton melalui pemain rasmi Unifi TV: [Inspirasi](https://unifitv.com.my/player/channel/inspirasi/live/2026-11-02T02:00:00.000Z/2026-11-02T02:30:00.000Z).
+
+Pautan ini memerlukan sesi log masuk Unifi TV yang sah. Ia bukan pautan M3U dan tidak boleh digunakan terus dalam aplikasi IPTV.
+
 ## Cara guna
 Masukkan URL TV dan URL EPG dalam aplikasi IPTV yang menyokong M3U/XMLTV. Sesetengah aplikasi akan membaca EPG terus daripada playlist.
 
